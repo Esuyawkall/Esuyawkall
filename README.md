@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Esuyawkal Bereda</h1>
-<h3 align="center">Software Engineer | Master's Student in Computer Science | Full-Stack Developer</h3>
+<h1 align="center">Hello, I'm Esuyawkal Bereda</h1>
+<h3 align="center">Software Engineer | CS Master's Student at Clarkson University | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+Clarkson+University;Full-Stack+Developer;AI+%26+Database+Enthusiast;Building+Educational+Technology" alt="Typing SVG" />
@@ -15,10 +15,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently pursuing **Master's in Computer Science** at **Clarkson University** (Jan 2025 - Dec 2026)
+- 🎓 Currently pursuing **Master's in Computer Science** at **Clarkson University** (🎓 Dec 2026)
 - 💼 Working as a **Software Engineer** at Clarkson University, improving web applications and digital systems
 - 🌱 Specializing in **Computer Algorithms**, **Artificial Intelligence**, and **Database Systems**
-- 🚀 Passionate about building **scalable applications** and **educational technology**
+- 🚀 Passionate about building **scalable applications**
 - 🎯 Completed my Bachelor's degree at **Jimma University** (2021-2024)
 - 🌍 Former **Software Engineer Intern** at Elihu Software in Addis Ababa, Ethiopia
 - 📍 Based in **Potsdam, NY**
@@ -66,8 +66,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
 </p>
 
 ---
@@ -82,71 +80,10 @@
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🎮 [Digital Ground for Ethiopian Children](https://github.com/Esuyawkall)
-**Tech Stack:** Python, React.js, Node.js | *Jan 2024 - June 2024*
-- Designed and developed a web-based learning platform to enhance user engagement and accessibility for Ethiopian children
-- Created interactive JavaScript-based games and lessons to provide an engaging learning experience
-- Implemented a ranking and skill badge system integrated with a database to track user progress and achievements
-- **Impact:** Providing accessible education to underserved communities
-
-#### 📚 Virtual Learning System for Ethiopian Children
-**Tech Stack:** React.js, Node.js | *Final Year Project*
-- Developed a comprehensive game and digital lesson-based educational system
-- Built full-stack application with modern frontend and robust backend architecture
-- Focused on creating accessible educational content for children in Ethiopia
-
-#### 🎓 Student Portal Website (Elihu Software)
-**Tech Stack:** React.js, Node.js, SQL | *July 2023 - Nov 2023*
-- Designed and implemented a student portal allowing access to blogs, research articles, and inter-office communication
-- Developed and maintained back-end systems and database architecture
-- Analyzed and improved existing data systems under senior developer guidance
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Esuyawkall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esuyawkall&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esuyawkall&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esuyawkall&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Esuyawkall&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
----
-
-### 📜 Certifications
-
-- **Python for Data Science, AI and Development** - IBM, Coursera (Sept 2023 - Dec 2023)
-  - Python Data Structures and Fundamentals
-  - Working with Data in Python
-  - APIs and Data Collection
-
-- **JavaScript Specialization** - UC Davis, Coursera (July 2023 - Aug 2023)
-  - Animation and Interactivity with JavaScript and jQuery
-  - Data Manipulation in JavaScript
-
----
-
 ### 💼 Professional Experience
 
 **Software Engineer** | Clarkson University, Potsdam, NY | *Sept 2025 - Dec 2025*
-- Collaborate with faculty and staff to redesign user flows and improve usability of university web applications
+- Collaborate with faculty and staff to redesign user flows and improve the usability of university web applications
 - Organize and update digital documentation storage systems for efficient access and management
 - Conduct regular audits and provide recommendations to enhance accuracy, accessibility, and user engagement
 
@@ -154,6 +91,36 @@
 - Designed student portal website enabling access to blogs, research articles, and inter-office communication
 - Developed and maintained back-end systems and database architecture
 - Analyzed and improved existing data systems under senior developer guidance
+
+---
+
+### 🚀 Featured Projects
+
+#### 🎮 [Digital Ground for Ethiopian Children](https://github.com/Esuyawkall)
+**Tech Stack:** Python, React.js, Node.js | *Jan 2024 - June 2024*
+
+#### 📚 Virtual Learning System for Ethiopian Children
+**Tech Stack:** React.js, Node.js | *Final Year Project*
+
+#### 🎓 Student Portal Website (Elihu Software)
+**Tech Stack:** React.js, Node.js, SQL | *July 2023 - Nov 2023*
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Esuyawkall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Esuyawkall&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Esuyawkall&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esuyawkall&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
 
 ---
 
@@ -167,15 +134,6 @@ I'm always open to interesting conversations and collaboration opportunities! Fe
 - 📧 Email: esuyawkal07@gmail.com
 - 🐱 GitHub: [@Esuyawkall](https://github.com/Esuyawkall)
 - 📍 Location: Potsdam, NY
-
----
-
-### 💡 Fun Facts
-
-- 🌍 Passionate about using technology to bridge educational gaps in underserved communities
-- 🎯 Committed to building solutions that make a real-world impact
-- 📚 Continuous learner exploring AI, algorithms, and system design
-- 🚀 Always excited about new technologies and innovative projects
 
 ---
 
