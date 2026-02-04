@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | CS Master's Student at Clarkson University | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer+%40+Clarkson+University;Full-Stack+Developer;AI+%26+Database+Enthusiast;Building+Educational+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Software+Engineer+%40+Clarkson+University;Full-Stack+Developer;AI+%26+Database+Enthusiast;Building+Educational+Technology" alt="Typing SVG" />
 </p>
 
 <p align="center">
