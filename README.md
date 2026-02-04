@@ -22,7 +22,7 @@
 ## 📫 Connect with Me
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: (optional)
-![GitHub Stats](
+Stats: [GitHub Stats](
 https://github-readme-stats.vercel.app/api?username=Esuyawkall&show_icons=true&theme=radical)
 
 
