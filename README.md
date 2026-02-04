@@ -19,7 +19,6 @@
 - 💼 Working as a **Software Engineer** at Clarkson University, improving web applications and digital systems
 - 🌱 Specializing in **Computer Algorithms**, **Artificial Intelligence**, and **Database Systems**
 - 🚀 Passionate about building **scalable applications**
-- 🎯 Completed my Bachelor's degree at **Jimma University** (2021-2024)
 - 🌍 Former **Software Engineer Intern** at Elihu Software in Addis Ababa, Ethiopia
 - 📍 Based in **Potsdam, NY**
 
@@ -56,8 +55,9 @@
 
 #### Databases
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>  
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/MS_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="MS Access"/>
 </p>
 
@@ -82,28 +82,22 @@
 
 ### 💼 Professional Experience
 
-**Software Engineer** | Clarkson University, Potsdam, NY | *Sept 2025 - Dec 2025*
-- Collaborate with faculty and staff to redesign user flows and improve the usability of university web applications
-- Organize and update digital documentation storage systems for efficient access and management
-- Conduct regular audits and provide recommendations to enhance accuracy, accessibility, and user engagement
+**Software Engineer** | Clarkson University, Potsdam, NY | *Sept 2025 - Feb 2026*
 
 **Software Engineer Intern** | Elihu Software, Addis Ababa, Ethiopia | *July 2023 - Nov 2023*
-- Designed student portal website enabling access to blogs, research articles, and inter-office communication
-- Developed and maintained back-end systems and database architecture
-- Analyzed and improved existing data systems under senior developer guidance
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🎮 [Digital Ground for Ethiopian Children](https://github.com/Esuyawkall)
-**Tech Stack:** Python, React.js, Node.js | *Jan 2024 - June 2024*
+#### 🎮 [AI Meeting summarizer and scheduler]([https://github.com/Esuyawkall/](https://github.com/Esuyawkall/ai-meeting-summarizer)
+**Tech Stack:** React.js, FastAPI, Express.js | *Jan 2024 - June 2024*
 
-#### 📚 Virtual Learning System for Ethiopian Children
-**Tech Stack:** React.js, Node.js | *Final Year Project*
+#### 📚 [Virtual Learning System for Ethiopian Children](https://github.com/Esuyawkall/Children-Learning-Ground)
+**Tech Stack:** php, Node.js, MySQL | *Final Year Project*
 
 #### 🎓 Student Portal Website (Elihu Software)
-**Tech Stack:** React.js, Node.js, SQL | *July 2023 - Nov 2023*
+**Tech Stack:** React.js, Node.js, MongoDB| *July 2023 - Nov 2023*
 
 ---
 
@@ -112,14 +106,6 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Esuyawkall&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Esuyawkall&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Esuyawkall&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esuyawkall&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -139,8 +125,4 @@ I'm always open to interesting conversations and collaboration opportunities! Fe
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Esuyawkall&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/Esuyawkall">Esuyawkall</a></i>
 </p>
