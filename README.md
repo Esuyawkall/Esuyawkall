@@ -90,7 +90,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🎮 [AI Meeting summarizer and scheduler](https://github.com/Esuyawkall/](https://github.com/Esuyawkall/ai-meeting-summarizer)
+#### 🎮 [AI Meeting summarizer and scheduler](https://github.com/Esuyawkall/ai-meeting-summarizer)
 **Tech Stack:** React.js, FastAPI, Express.js | *Jan 2024 - June 2024*
 
 #### 📚 [Virtual Learning System for Ethiopian Children](https://github.com/Esuyawkall/Children-Learning-Ground)
