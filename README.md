@@ -22,6 +22,6 @@
 ## 📫 Connect with Me
 - GitHub: [@yourusername](https://github.com/yourusername)
 - LinkedIn: (optional)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Esuyawkall&show_icons=true&theme=radical)
 
----
-⭐ Feel free to check out my repositories!
+
